@@ -1,7 +1,7 @@
 body {
   background-color: #f2f2f2;
   font-family: Arial, sans-serif;
-  background-image: url(/imageaccess/hanger2.jpg);
+  background-image: url(../imageaccess/hanger2.jpg);
   object-fit: cover;
 }
 .container-fluid {
@@ -13,7 +13,7 @@ body {
   margin-left: 100px;
 }
 .container {
-  background: url(/imageaccess/outfit1.avif);
+  background: url(../imageaccess/arrival1.avif);
 
   position: absolute;
   left: 35%;
